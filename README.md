@@ -15,7 +15,7 @@ The original goal for Ellipsis was to make the navigation and use of Kodi as use
 This UI sounds addon was created using sound assets ripped from Ellipsis by Team Blackbolt.
 
 ------------------------------------------------------------------------
-How to install and use EllipsisUI UI sounds addon using Kodi:
+How to install and use EllipsisUI sounds addon using Kodi:
 ====================================
 
 Copy the 'resource.uisounds.ellipsisui' folder that is found in the zip file to your Kodi/addons/ directory.
@@ -27,7 +27,7 @@ You may also install direct from within Kodi's addon manager.
 Credits:
 ========
 
-Ellipsis UI Sounds Addon
+EllipsisUI Sounds Addon
 -----------------------
 by TeamUI
 
