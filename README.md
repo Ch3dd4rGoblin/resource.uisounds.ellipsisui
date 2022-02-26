@@ -14,15 +14,6 @@ The aim with EllipsisUI is to resurrect the Ellipsis project from Team Blackbolt
 The original goal for Ellipsis was to make the navigation and use of Kodi as user friendly as possible, so easy to use infact that a young child can use it just as easily as her grandmother can.
 This UI sounds addon was created using sound assets ripped from Ellipsis by Team Blackbolt.
 
-------------------------------------------------------------------------
-How to install and use EllipsisUI sounds addon using Kodi:
-====================================
-
-Copy the 'resource.uisounds.ellipsisui' folder that is found in the zip file to your Kodi/addons/ directory.
-This folder may be different depending where you installed to. When you have copied go over to Kodi and then select Addons/My Addons/Look amd Feel/GUI Sounds, then select EllipsisUI UI Sounds 
-
-You may also install direct from within Kodi's addon manager.
-
 --------
 Credits:
 ========
@@ -44,6 +35,6 @@ Sound Effects
 Special Thanks:
 ==================
 
-Special thanks to Team Kodi for continuing to develop the greatest software ever made! Blackbolt for all you've done in the past for the skinning community. 
-You started this journey for me many years ago with the work you did with Team Blackbolt when you created MC360 and Ellipsis. 
-Whatever you are doing wherever you are, may peace be with you brother.
+Special thanks to Team Kodi for continuing to develop the greatest software ever made! 
+Big thanks to manfeed for all the work he's done for TeamUI. EllipsisUI was born from the Ellipsis project by Team Blackblot and manfeed has done a fantastic job. 
+Team Blackbolt for all you've done in the past for the skinning community including the creation of the original Ellipsis.
