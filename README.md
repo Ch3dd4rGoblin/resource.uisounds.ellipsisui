@@ -8,7 +8,7 @@ EllipsisUI Sounds for Kodi
 About EllipsisUI
 =====================================
 
-EllipsisUI is a Graphical User Interface for Kodi, a media playback application available on multiple platforms.
+EllipsisUI is a Graphical User Interface for Kodi. Kodi is a media playback application available on multiple platforms.
 
 The aim with EllipsisUI is to resurrect the Ellipsis project from Team Blackbolt. 
 The original goal for Ellipsis was to make the navigation and use of Kodi as user friendly as possible, so easy to use infact that a young child can use it just as easily as her grandmother can.
