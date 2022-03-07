@@ -2,7 +2,7 @@
 noun: the omission from speech or writing of a word or words that are superfluous or able to be understood from contextual clues.
 
 ------------------------------------------------------------------------
-EllipsisUI Sounds for Kodi
+EllipsisUI GUI Sounds Addon for Kodi
 =====================================
 ------------------------------------------------------------------------
 About EllipsisUI
@@ -18,10 +18,9 @@ This UI sounds addon was created using sound assets ripped from Ellipsis by Team
 Credits:
 ========
 
-EllipsisUI Sounds Addon
+EllipsisUI GUI Sounds Addon
 -----------------------
 by TeamUI
-
 
 Project Lead
 -----------------------
@@ -36,5 +35,5 @@ Special Thanks:
 ==================
 
 Special thanks to Team Kodi for continuing to develop the greatest software ever made! 
-Big thanks to manfeed for all the work he's done for TeamUI. EllipsisUI was born from the Ellipsis project by Team Blackbolt and manfeed has done a fantastic job. 
+Big thanks to manfeed for all the work he's done for TeamUI. EllipsisUI was born from the Ellipsis project by Team Blackbolt and manfeed has done a fantastic job in reviving the skin and refining it. 
 Team Blackbolt for all you've done in the past for the skinning community including the creation of the original Ellipsis.
