@@ -12,7 +12,7 @@ EllipsisUI is a Graphical User Interface for Kodi. Kodi is a media playback appl
 
 The aim with EllipsisUI is to resurrect the Ellipsis project from Team Blackbolt. 
 The original goal for Ellipsis was to make the navigation and use of Kodi as user friendly as possible, so easy to use infact that a young child can use it just as easily as her grandmother can.
-This UI sounds addon was created using sound assets ripped from Ellipsis by Team Blackbolt.
+This GUI sounds addon was created using sound assets ripped from Ellipsis by Team Blackbolt.
 
 --------
 Credits:
@@ -22,7 +22,7 @@ EllipsisUI GUI Sounds Addon
 -----------------------
 by TeamUI
 
-Project Lead
+Addon Maintainer
 -----------------------
     - Ch3dd4rGoblin
 
@@ -35,5 +35,5 @@ Special Thanks:
 ==================
 
 Special thanks to Team Kodi for continuing to develop the greatest software ever made! 
-Big thanks to manfeed for all the work he's done for TeamUI. EllipsisUI was born from the Ellipsis project by Team Blackbolt and manfeed has done a fantastic job in reviving the skin and refining it. 
-Team Blackbolt for all you've done in the past for the skinning community including the creation of the original Ellipsis.
+Big thanks to manfeed for all the work he's done as lead developer on EllipsisUI for TeamUI. EllipsisUI was born from a unique collaborative effort by TeamUI and was forked from the Ellipsis project by Team Blackbolt. Manfeed has done a fantastic job with the project by resurrecting and refining EllipsisUI for the world to enjoy once again, and for that I am extremely thankful.
+Thanks to Team Blackbolt for the work you've all done in the past for the skinning community including the creation of the original Ellipsis.
