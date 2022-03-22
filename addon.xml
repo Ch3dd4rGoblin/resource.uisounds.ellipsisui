@@ -8,5 +8,13 @@
     <summary lang="en">EllipsisUI sounds</summary>
     <description lang="en">EllipsisUI sounds</description>
     <platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
