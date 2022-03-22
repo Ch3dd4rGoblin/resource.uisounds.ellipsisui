@@ -5,8 +5,8 @@
   </requires>
   <extension point="kodi.resource.uisounds"/>
   <extension point="kodi.addon.metadata">
-    <summary lang="en">EllipsisUI sounds</summary>
-    <description lang="en">EllipsisUI sounds</description>
+    <summary lang="en">EllipsisUI GUI Sounds Addon</summary>
+    <description lang="en">Experience the GUI sound effects of EllipsisUI</description>
     <platform>all</platform>
 	<assets>
 		<icon>icon.png</icon>
